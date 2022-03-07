@@ -9,7 +9,7 @@
 		
 		</header>
 		<main class="flex-container">
-			<img src="https://c.tenor.com/x8v1oNUOmg4AAAAd/rickroll-roll.gif"/>
+			<img src="img/rickroll-roll.gif"/>
 			<div id="audio"></div>
 		</main>
 		<footer>
